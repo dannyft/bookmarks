@@ -6,3 +6,6 @@
 - [Kiterunner](https://github.com/assetnote/kiterunner)
 - [Nabuu](https://github.com/projectdiscovery/naabu)
 - [Smap](https://github.com/s0md3v/Smap)
+- [RedTeam Tools](https://github.com/A-poc/RedTeam-Tools)
+
+
